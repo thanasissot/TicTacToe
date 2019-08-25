@@ -181,8 +181,14 @@ img = xIMG
 # set turn variable to X as first player always
 turn = (XturnFont, XturnRect)
 
+# MUSIC
+pygame.mixer.music.load('Background Beat1.wav')
+pygame.mixer.music.play(-1)
+
 startingScreenRECT = startingScreenDraw()
 # mainFrameDraw()
+
+
 # main game loop
 while True:
 

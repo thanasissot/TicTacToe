@@ -10,3 +10,4 @@ My next steps include:
 
 Changes accomplished since post:
   - adding a starting screen, and a "New Game" button
+  - added music
